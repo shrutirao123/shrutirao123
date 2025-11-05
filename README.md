@@ -26,21 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutirao123&show_icons=true&theme=tokyonight" alt="Shruti's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutirao123&theme=tokyonight" alt="Shruti's GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutirao123&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ### 🌐 Connect with Me  
 <p align="left">
   <a href="mailto:shrutibhalerao03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
